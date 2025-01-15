@@ -14,7 +14,7 @@
 
 ### ✨ **Empowering the Future**  
 - 🌱 Collaborating on **social innovations** to impact society positively.  
-- 🤖 Conducting **robotics workshops** and mentoring students for competitions.  
+- 🤖 Conducting **robotics classes** and mentoring students for competitions.  
 
 ---
 
